@@ -12,6 +12,7 @@ Developement steps:
 - npm run dev (or) npm run start
 
 host url-> localhost:3000
+
 pdf will be generated under nuxtSource/static folder while starting/reloading the server
 
 pdf routes can be set in nuxt.config.js
