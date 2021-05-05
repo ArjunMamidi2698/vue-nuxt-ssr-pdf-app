@@ -1,0 +1,29 @@
+{
+  "name": "vue-nuxt-ssr-pdf",
+  "version": "1.0.0",
+  "description": "NuxtJS module to generate PDF files and manage PDF in your Nuxt application",
+  "author": {
+    "name": "Mallikharjuna Mamidi"
+  },
+  "keywords": [
+    "vue",
+    "nuxt",
+    "nuxt.js"
+  ],
+  "main": "lib/module.js",
+  "files": [
+    "lib"
+  ],
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "pdf-lib": "^1.10.0"
+  },
+  "peerDependencies": {
+    "nuxt": "^2.0.0",
+    "puppeteer": "^5.0.0"
+  },
+  "devDependencies": {
+    "nuxt": "^2.14.1",
+    "puppeteer": "^5.2.1"
+  }
+}
